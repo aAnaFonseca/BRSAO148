@@ -1,4 +1,4 @@
-'''1- Classificador de Idade
+1- Classificador de Idade
 Crie um programa que solicite a idade do usuário e classifique-o 
 em uma das seguintes categorias: 
 
@@ -40,4 +40,3 @@ Crie um programa que solicite uma palavra e verifique se ela é um palíndromo (
 8- Calculadora Simples
 Enunciado:
 Crie um programa que simule uma calculadora simples. O usuário deve informar dois números e a operação desejada (+, -, *, /) e o programa deve exibir o resultado da operação.
-'''
