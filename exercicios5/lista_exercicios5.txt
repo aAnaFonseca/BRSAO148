@@ -11,7 +11,7 @@ Use try/except para tratar erros de entrada e valide que o ano não pode ser mai
 
 4 - Crie uma função que recebe dois números e retorna a soma. O programa deve pedir os números ao usuário, chamar a função e exibir o resultado.
 
-5 - Crie um programa com uma função que cadastre alunos e suas respectivas notas.
+5 - Crie um programa com uma função que cadastre alunos e suas respectivas notas. 
 O sistema deve:
 Solicitar o nome do aluno.
 Solicitar 3 notas válidas (entre 0 e 10).
@@ -20,7 +20,7 @@ Permitir o cadastro de vários alunos até que o usuário digite "fim".
 Exibir ao final:
 A lista de alunos e suas médias.
 O aluno com a maior média.
-Use def para as funcionalidades e try/except para tratar entradas inválidas.
+Use def para as funcionalidades e try/except para tratar entradas inválidas. 
 
 6 - Crie um programa que peça ao usuário o nome e a idade. Em seguida, exiba uma mensagem personalizada com o nome e a idade da pessoa. Toda a lógica deve estar dentro de uma função main(), e o programa deve ser executado com if __name__ == "__main__":.
 

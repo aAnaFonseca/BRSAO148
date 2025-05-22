@@ -2,7 +2,7 @@
 
 2 - Crie um programa em Python que solicite um número do usuário e informe se ele é par ou ímpar.
 
-3 - Crie um programa em Python que utilize um laço for para exibir os números de 1 a 10 na tela.
+3 - Crie um programa em Python que utilize um laço for para exibir os números de 1 a 10 na tela. 
 
 4 - Crie uma função em Python que receba um número como parâmetro e retorne o dobro desse número. Depois, chame essa função com um número fornecido pelo usuário.
 
@@ -16,4 +16,4 @@
 
 9 - Crie um programa que faça uma contagem regressiva de 5 até 1 usando while, e exiba “Lançar!” no final.
 
-10 - Crie uma função que receba um número como argumento e retorne o quadrado desse número. Depois, chame essa função passando um número digitado pelo usuário.
+10 - Crie uma função que receba um número como argumento e retorne o quadrado desse número. Depois, chame essa função passando um número digitado pelo usuário. 

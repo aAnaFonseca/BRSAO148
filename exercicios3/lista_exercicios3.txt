@@ -1,5 +1,5 @@
 1 - Crie um programa que solicite ao usuário uma nota (de 0 a 10) e exiba uma mensagem dizendo se o aluno foi reprovado, em recuperação ou aprovado.
-Use as estruturas de decisão if, elif e else.
+Use as estruturas de decisão if, elif e else. 
 
 2 - Crie um programa que solicite um número ao usuário e exiba a tabuada desse número de 1 a 10, utilizando a estrutura de repetição for.
 
